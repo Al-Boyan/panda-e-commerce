@@ -9,3 +9,16 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat-1{
+    background-color: #ffa500;
+    border-radius: 13px;
+}
+
+.cat-2{
+    background-color: orchid;
+    border-radius: 13px;
+}
+.cat-3{
+    background-color: blue;
+    border-radius: 13px;
+}
